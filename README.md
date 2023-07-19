@@ -1,4 +1,4 @@
-<h1 align="center">Widget de Notificações</h1>
+<h1 align="center">Notifications Widget</h1>
 
 <p align="center">
   This is a notification widget project that uses the Composition Pattern strategy to build highly customizable and reusable notifications in different parts of a system.
